@@ -1,0 +1,9 @@
+## Interface: 11302
+## Title: Expert
+## Version: 0.1
+## Author: nebulizer
+## Notes: Experience stats
+## SavedVariablesPerCharacter: isFrameOn, isChatOn
+## DefaultState: Enabled
+
+expert.lua
